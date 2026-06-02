@@ -1,0 +1,6 @@
+
+body{background:#0b0f17;color:white;font-family:Arial;margin:0}
+.hero{min-height:70vh;display:flex;flex-direction:column;justify-content:center;padding:8%}
+h1{font-size:4rem;color:#ff9800}
+.gallery{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px;padding:20px}
+img{width:100%;border-radius:12px}
